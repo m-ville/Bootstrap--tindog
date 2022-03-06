@@ -1,3 +1,3 @@
 # Bootstrap--tindog
 
-Bootstrap based responsive static website.
+>Bootstrap + mediaQuery based responsive static website.
